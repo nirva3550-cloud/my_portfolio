@@ -1,4 +1,4 @@
-# Alex Carter — Developer Portfolio
+#  NIRVA SATANI — Developer Portfolio
 
 A modern, responsive, single-page portfolio built with plain HTML5, CSS3
 and vanilla JavaScript (no frameworks), with a contact form that saves
